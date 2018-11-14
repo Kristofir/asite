@@ -1,0 +1,30 @@
+@import 'reset.css';
+@import 'fonts.css';
+
+h1 {
+  font-size: 24px;
+  font-family: "Circular Std Medium", sans-serif;
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
+}
+
+a:hover {
+  color: #0044FF;
+}
+
+p {
+  font-family: "Circular Std Book", sans-serif;
+}
+
+.icon {
+  display: inline;
+  vertical-align: middle;
+}
+
+.island {
+  margin: 24px;
+}
